@@ -9,5 +9,5 @@ import { ThirdComponent } from './third-component/third-component';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = '';
+  protected readonly name = 'app';
 }
